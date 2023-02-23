@@ -2,9 +2,9 @@ package lesson1;
 // 1 задание
 public class HomeWorkApp {
     public static void main(String[] args) {
-//printThreeWords();
-        //checkSumSign();
-        //printColor();
+printThreeWords();
+checkSumSign();
+printColor();
         compareNumbers();
     }
 
